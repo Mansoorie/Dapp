@@ -1,4 +1,4 @@
-# Chai Buying DApp
+# Donation DApp
 
 🍵 This is a beginner-friendly decentralized donation application (DApp)  using cryptocurrency while including a personalized message. ☕️
 

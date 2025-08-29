@@ -60,5 +60,4 @@ Once the DApp is set up:
 
 1. Connect your MetaMask wallet to the DApp.
 2. Send cryptocurrency to purchase chai.
-3. Write a sweet message to accompany your purchase.
-4. Enjoy your chai!
+3. Write a sweet message to accompany your Donation.
